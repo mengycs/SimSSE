@@ -44,3 +44,4 @@ Please select an operation:
 - Current Maintainer
   - Helei Cui, City University of Hong Kong, helei.cui@my.cityu.edu.hk
   - Xingliang Yuan, City University of Hong Kong, xl.y@my.cityu.edu.hk
+  - Cong Wang, City University of Hong Kong, congwang@cityu.edu.hk
